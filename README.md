@@ -1,6 +1,6 @@
 # Projeto_Agencia_2_CSS
 
-Linda Static Single Page responsiva desenvolvida juntamente com o Prof° Matheus Battist no curso de "Bootstrap 5 do Básico ao Avançado (com 4 projetos)".
+Linda Static Single Page desenvolvida juntamente com o Prof° Matheus Battist no curso de "Bootstrap 5 do Básico ao Avançado (com 4 projetos)".
 
 ## O que temos aqui:
 
